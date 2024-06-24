@@ -1,4 +1,4 @@
-# <div align="center">Caht GPT Clone</div>
+# <div align="center">Chat GPT Clone</div>
 <img src="Readme_Banner.png" />
 
 ## About the Project
